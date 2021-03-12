@@ -1,10 +1,14 @@
 # interview_practical
 
-API 1
+Report screen
 - Get the id.
-- Total cases get the data api 2
-  "disease_ids":"1,3,4"
+- Total cases get the data api 2.
+  For example: "disease_ids":"1,3,4"
 
+detail screen
+- API 2 get the id and name.
+
+API 1
 {"diseaseData":[{"id":1,"title":"Asthama"},{"id":2,"title":"Convulsions"},{"id":3,"title":"Eye problem"},{"id":4,"title":"Juvenile cataracts"},{"id":5,"title":"Haemophilia"},{"id":6,"title":"Mentally retarded"},{"id":7,"title":"Goiter"}]}
 
 API 2
