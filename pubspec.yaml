@@ -1,0 +1,43 @@
+name: interview_practical
+description: A new Flutter application.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  get:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/json/
+    - assets/fonts/
+
+  fonts:
+    - family: Khula Regular
+      fonts:
+        - asset: assets/fonts/Khula-Regular.ttf
+
+    - family: Khula Light
+      fonts:
+        - asset: assets/fonts/Khula-Light.ttf
+
+    - family: Khula Bold
+      fonts:
+        - asset: assets/fonts/Khula-Bold.ttf
+
+    - family: Khula SemiBold
+      fonts:
+        - asset: assets/fonts/Khula-SemiBold.ttf

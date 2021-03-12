@@ -1,0 +1,32 @@
+{
+  "diseaseData": [
+    {
+      "id": 1,
+      "title": "Asthama"
+    },
+    {
+      "id": 2,
+      "title": "Convulsions"
+    },
+    {
+      "id": 3,
+      "title": "Eye problem"
+    },
+    {
+      "id": 4,
+      "title": "Juvenile cataracts"
+    },
+    {
+      "id": 5,
+      "title": "Haemophilia"
+    },
+    {
+      "id": 6,
+      "title": "Mentally retarded"
+    },
+    {
+      "id": 7,
+      "title": "Goiter"
+    }
+  ]
+}
